@@ -217,7 +217,8 @@
     margin-top: -120px;
   }
   .section__pic-container {
-    height: 46vw;
+    height: 48vw;
+    width: 48vw;
     display: flex;
     justify-content: center;
     align-items: center;
