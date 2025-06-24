@@ -321,7 +321,15 @@ section {
 #experience {
   position: relative;
 }
+.text-container{
+  padding: 10px;
+  
+}
 
+.text-container p{
+  padding: 15px;
+  
+}
 .experience-sub-title {
   color: rgb(85, 85, 85);
   font-weight: 600;
