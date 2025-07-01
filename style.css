@@ -321,14 +321,12 @@ section {
 #experience {
   position: relative;
 }
-.text-container{
+.text-container {
   padding: 10px;
-  
 }
 
-.text-container p{
+.text-container p {
   padding: 15px;
-  
 }
 .experience-sub-title {
   color: rgb(85, 85, 85);
@@ -367,6 +365,9 @@ article .icon {
 
 #projects {
   position: relative;
+}
+.projects {
+  margin-top: -130px;
 }
 
 .color-container {
