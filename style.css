@@ -321,12 +321,18 @@ section {
 #experience {
   position: relative;
 }
-.text-container {
+.text-container-heading {
   padding: 10px;
+  font-size: 25px;
+  font-family: "Dancing Script", cursive;
+  font-weight: bold;
+  font-style: normal;
+  background: linear-gradient(90deg, #0700b8 0%, #00ff88 100%);
+  color: white;
+  border-radius: 10px;
 }
-
 .text-container p {
-  padding: 15px;
+  padding: 35px;
 }
 .experience-sub-title {
   color: rgb(85, 85, 85);
